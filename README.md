@@ -1,4 +1,4 @@
-# S3 File Uploader
+# File Uploader
 
 A modern web application built with Next.js that provides a user-friendly interface for uploading files to AWS S3 using presigned URLs. This application is perfect for handling large file uploads (several GB in size) directly to S3 buckets.
 
